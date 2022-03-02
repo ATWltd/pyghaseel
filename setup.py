@@ -14,5 +14,6 @@ setup(name='pyghaseel',
         'Arabic-Stopwords',
         'pyarabic'
         ],
+      url="https://github.com/ATWltd/pyghaseel",
       packages=['pyghaseel'],
       zip_safe=False)
